@@ -54,7 +54,6 @@ A Power BI dashboard was built to provide a consolidated view of **loan performa
 - Loan amount by loan type  
 - Credit utilization distribution  
 
-📊 **Power BI File**: `powerbi/retail_banking_dashboard.pbix`
 
 ---
 
@@ -63,7 +62,6 @@ A Power BI dashboard was built to provide a consolidated view of **loan performa
 - **Python** (Pandas, NumPy, Matplotlib)
 - **Jupyter Notebook** for analysis
 - **Power BI** for interactive dashboards
-- **GitHub** for version control
 
 ---
 
